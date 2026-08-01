@@ -1,0 +1,98 @@
+[
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Consumer_Complaints\\Acts\\CP Act 2019_1732700731.pdf",
+    "source_hash": "0ae7f82ab5b77d50087cd4cd2dd2dbc12755c0bdb31371fdefd042b020d50756",
+    "pages": 40,
+    "characters": 127862,
+    "domain": "consumer",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Consumer_Complaints\\Acts\\eng201935.pdf",
+    "source_hash": "414fb1edd9b0f7fbc2839ad92fb2b29ebfa3b557e70e928ab4a535802199e3e7",
+    "pages": 39,
+    "characters": 134880,
+    "domain": "consumer",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Consumer_Complaints\\Citizen_Guides\\CC_Filing.34e0fc5dd03b1d864cab.pdf",
+    "source_hash": "9e666f13c725568493adc74879ed1bb1a2d53e5f56696d58253a8e996c0caf49",
+    "pages": 13,
+    "characters": 4380,
+    "domain": "consumer",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Consumer_Complaints\\Citizen_Guides\\Consumer_Handbook.pdf",
+    "source_hash": "329bcae8d6fff1ac6322fb124dcf1e51ebd25a6b85371f07e0f246ad98cc6480",
+    "pages": 78,
+    "characters": 110480,
+    "domain": "consumer",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Criminal_Procedure\\Acts\\250883_english_01042024.pdf",
+    "source_hash": "c9da896e7a16c481a46235789f74f545b7a9ed7f3a5c8049d0b1b9252c6731f4",
+    "pages": 102,
+    "characters": 407879,
+    "domain": "criminal",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Criminal_Procedure\\Acts\\250884_2_english_01042024.pdf",
+    "source_hash": "5e60e2afe30d0fe7eca4f8126301146b76c86a444e690581f81eb564843517fe",
+    "pages": 249,
+    "characters": 857385,
+    "domain": "criminal",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Criminal_Procedure\\Citizen_Guides\\1589358673DK Basu guidelines English.pdf",
+    "source_hash": "df2e71a894cb4e42ae6f5f5cd689db60aceef0f747a4bfc617ff18b8b747a7ac",
+    "pages": 1,
+    "characters": 3731,
+    "domain": "criminal",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Criminal_Procedure\\Citizen_Guides\\2022070126.pdf",
+    "source_hash": "5acaf02977b532f24a2f987bd0e20d38168c24d98c713ee0947c81c94de5419d",
+    "pages": 6,
+    "characters": 10496,
+    "domain": "criminal",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Family_Law\\Acts\\A1954-43E.pdf",
+    "source_hash": "8edbdc1c6178de27e4d04d121d1f2331c33b70c22baf7cb4f596c4dd77d5355f",
+    "pages": 30,
+    "characters": 74845,
+    "domain": "family",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Family_Law\\Acts\\a1961-28.pdf",
+    "source_hash": "5e6f91463f6784aed773dca75fd45a4491255291e76dd6ca2563a8d4b9d4b8fc",
+    "pages": 5,
+    "characters": 15399,
+    "domain": "family",
+    "duplicate_of": null
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Family_Law\\Citizen_Guides\\A1954-43E.pdf",
+    "source_hash": "8edbdc1c6178de27e4d04d121d1f2331c33b70c22baf7cb4f596c4dd77d5355f",
+    "pages": 30,
+    "characters": 74845,
+    "domain": "family",
+    "duplicate_of": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Family_Law\\Acts\\A1954-43E.pdf"
+  },
+  {
+    "source_file": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Family_Law\\Citizen_Guides\\a1961-28.pdf",
+    "source_hash": "5e6f91463f6784aed773dca75fd45a4491255291e76dd6ca2563a8d4b9d4b8fc",
+    "pages": 5,
+    "characters": 15399,
+    "domain": "family",
+    "duplicate_of": "G:\\DO_TOUCH\\Programmes\\Legal_SLM_Dataset\\Family_Law\\Acts\\a1961-28.pdf"
+  }
+]
