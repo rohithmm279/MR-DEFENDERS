@@ -83,7 +83,7 @@ flowchart TD
 
 | Layer | Technology |
 |---|---|
-| Local SLM | Open-weight 4B–7B model (e.g. Phi-3.5-mini, Llama-3.2-4B, Gemma-2-2B) |
+| Local SLM | Open-weight 4B–7B model (e.g. Phi-3.5-mini, Qwen3-4B, Gemma-2-2B) |
 | Fine-Tuning | QLoRA — 4-bit quantization, LoRA adapters |
 | Model Export | GGUF (for efficient local inference) |
 | Vector Store | ChromaDB / FAISS |
