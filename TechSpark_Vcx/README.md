@@ -1,4 +1,4 @@
-# Nyaya Sahayak - Local Legal Guidance MVP
+# MR DEFENDERS- Local Legal Guidance MVP
 
 An offline-first hackathon prototype for English legal-information guidance in three areas: consumer complaints, criminal procedure basics, and family-law basics. It is **not legal advice** and does not replace a licensed advocate.
 
